@@ -11,7 +11,7 @@
 
 
 ### 🧠 About Me  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-right: 60px; margin-bottom: 90px;">
+
 
 - 🔭 Exploring the intersection of AI, language, and global access  
 - 🧠 Focused on ML, backend systems, and scalable tools  
