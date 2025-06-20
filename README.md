@@ -9,13 +9,15 @@
 
 ---
 
+
 ### 🧠 About Me  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-right: 60px; margin-bottom: 90px;">
 
 - 🔭 Exploring the intersection of AI, language, and global access  
 - 🧠 Focused on ML, backend systems, and scalable tools  
 - 💬 Fluent in code, data, and curiosity  
 - 🌍 Driven by impact and knowledge sharing  
+
 
 ---
 
@@ -32,13 +34,12 @@
 <p align="center">
   <a href="https://ali-osman.com" target="_blank">🌐 Portfolio</a> • 
   <a href="https://linkedin.com/in/ali-osman-435804254" target="_blank">💼 LinkedIn</a> • 
-  <a href="https://github.com/AliMoamen" target="_blank">👨‍💻 GitHub</a>
+  <a href="https://github.com/aosman25" target="_blank">👨‍💻 GitHub</a>
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
 
 <p align="center">
